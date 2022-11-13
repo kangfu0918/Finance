@@ -1,3 +1,3 @@
 # Finance
 
- Crypto Currency Prediction using LSTM and Trading with Statistical Arbitrage
+ Crypto Currency Prediction using LSTM and Trading using Statistical Arbitrage
