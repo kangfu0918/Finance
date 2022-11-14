@@ -1,3 +1,3 @@
 # Finance
-Related Programs
-Crypto Currency Prediction using LSTM and Trading using Statistical Arbitrage
+Finance Related Programs and 
+Project: Crypto Currency Prediction using LSTM and Trading using Statistical Arbitrage
